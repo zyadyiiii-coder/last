@@ -1,0 +1,140 @@
+{
+  "heroImage": "https://picsum.photos/1920/1080?grayscale&blur=2",
+  "heroVideo": "",
+  "heroTitleImage": "",
+  "heroTitleImageScale": 100,
+  "heroFooterImage": "",
+  "heroFooterImageScale": 80,
+  "aboutHeroImage": "https://picsum.photos/800/1000?random=99",
+  "aboutFooterImage": "",
+  "aboutFooterImageScale": 100,
+  "introLogos": ["", "", ""],
+  "clientLogos": "",
+  "clientLogosScale": 100,
+  "wechatQrCode": "",
+  "backgroundMusicUrl": "",
+  "sectionBackgrounds": {
+    "about": "",
+    "services": "",
+    "portfolio": "",
+    "contact": ""
+  },
+  "textContent": {
+    "heroTitleLine1": "打造一站式",
+    "heroTitleLine2": "文化创意方案",
+    "heroSubtitle": "品牌设计 · 影视制作 · 音乐原创 · 活动执行",
+    "heroButtonPrimary": "查看案例",
+    "heroButtonSecondary": "联系我们",
+    
+    "aboutTitleSmall": "About Yidao Jiahua",
+    "aboutTitleLargeLine1": "以视觉传达为核心",
+    "aboutTitleLargeLine2": "构建文化影响力",
+    "aboutDescP1": "贵州译道佳华文化发展有限公司，前身是一家深耕行业10多年的品牌设计工作室。我们不只是设计的执行者，更是品牌价值的塑造者。",
+    "aboutDescP2": "旗下拥有【醒狮影视】与【龙予成林音乐工作室】，打通视觉与听觉的创意边界。从现场搭建执行到广告物料印刷，我们提供全产业链的专业支持。",
+    "aboutExpYear": "10",
+    "aboutExpLabel": "Years Experience",
+    "aboutTeamTitle": "Core Team",
+    "clientLogosTitleSmall": "Trusted By",
+    "clientLogosTitleLarge": "合作品牌",
+
+    "servicesTitleSmall": "Service Fields",
+    "servicesTitleLarge": "核心经营范围",
+    "servicesDesc": "我们提供全链路的创意服务，从视觉到听觉，从线上到线下，全方位助力品牌价值提升。",
+    "servicesCtaTitle": "定制化解决方案",
+    "servicesCtaDesc": "没有找到您需要的服务？\n联系我们获取专属方案。",
+    "servicesCtaButton": "立即咨询",
+
+    "portfolioTitleSmall": "Selected Works",
+    "portfolioTitleLarge": "精选案例",
+    "portfolioButtonAdd": "添加新案例",
+
+    "contactTitle": "YIDAO JIAHUA",
+    "contactDesc": "我们致力于将文化与商业完美融合，通过独特的视觉语言和创新的执行方案，为品牌创造持久的影响力。",
+    "contactProjectCount": "100+",
+    "contactProjectLabel": "Projects",
+    "contactClientCount": "50+",
+    "contactClientLabel": "Clients",
+    "contactLabelCall": "Call Us",
+    "contactLabelVisit": "Visit Us",
+    "contactMenuTitle": "Menu",
+    "contactPartnersTitle": "Partners & Certifications",
+    "contactPhone1": "15985194981",
+    "contactPhone2": "13984832580",
+    "contactAddress": "贵州省贵阳市"
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "品牌平面设计及规划",
+      "description": "VIS视觉品牌设计、室内外文化墙宣传展板、创意海报、画册制作。",
+      "iconName": "Palette"
+    },
+    {
+      "id": 2,
+      "title": "影视拍摄及后期",
+      "description": "企业宣传片、微电影、广告片录制、后期剪辑、影视调色、航拍。",
+      "iconName": "Clapperboard"
+    },
+    {
+      "id": 3,
+      "title": "原创独立音乐制作",
+      "description": "【龙予成林音乐工作室】专属BGM制作、游戏编曲、广告片编曲录制。",
+      "iconName": "Music"
+    },
+    {
+      "id": 4,
+      "title": "线下活动搭建",
+      "description": "活动现场视觉规划及搭建、开业典礼、论坛会议、年会策划执行。",
+      "iconName": "Tent"
+    },
+    {
+      "id": 5,
+      "title": "广告物料 & 印刷",
+      "description": "自有印刷厂房，提供广告物料供应安装、纸质印刷品制作一站式服务。",
+      "iconName": "Printer"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "未来方舟-甜蜜小镇",
+      "category": "BRAND",
+      "imageUrl": "https://picsum.photos/800/600?random=1",
+      "gallery": [
+        "https://picsum.photos/800/600?random=101",
+        "https://picsum.photos/800/600?random=102",
+        "https://picsum.photos/800/600?random=103"
+      ],
+      "description": "小区对外形象VI设计及施工图展示，打造充满幸福感的城市."
+    },
+    {
+      "id": 5,
+      "title": "中国南方电网",
+      "category": "VIDEO",
+      "imageUrl": "https://picsum.photos/800/600?random=5",
+      "description": "“中国十大国之重器”——伏羲芯片宣传片拍摄。",
+      "subBrand": "醒狮影视"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "导演/品牌设计师",
+      "role": "主理人",
+      "image": "https://picsum.photos/200/200?random=20"
+    },
+    {
+      "id": 2,
+      "name": "摄影指导",
+      "role": "航拍/主理人",
+      "image": "https://picsum.photos/200/200?random=21"
+    },
+    {
+      "id": 3,
+      "name": "独立音乐制作人",
+      "role": "主理人",
+      "image": "https://picsum.photos/200/200?random=22"
+    }
+  ],
+  "footerLogos": ["", "", ""]
+}
